@@ -41,4 +41,4 @@ Output the desired logo<br>
 <hr>
 <h1>Sample Output</h1><br>
 <h1> Click here! </h1><br>
-https://hr-testcases-us-east-1.s3.amazonaws.com/9953/output03.txt?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1556612515&Signature=kZtDim%2FKDBLH1ayZRh%2BNF%2Fejssk%3D&response-content-type=text%2Fplain.html
+https://hr-testcases-us-east-1.s3.amazonaws.com/9953/output03.txt?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1556612515&Signature=kZtDim%2FKDBLH1ayZRh%2BNF%2Fejssk%3D&response-content-type=text%2Fplain
