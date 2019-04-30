@@ -40,28 +40,4 @@ Output the desired logo<br>
 <h1>5</h1><br>
 <hr>
 <h1>Sample Output</h1><br>
-    H    
-   HHH   
-  HHHHH 
- HHHHHHH 
-HHHHHHHHH
-  HHHHH               HHHHH            
-  HHHHH               HHHHH            
-  HHHHH               HHHHH            
-  HHHHH               HHHHH           
-  HHHHH               HHHHH         
-  HHHHH               HHHHH          
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHH               HHHHH         
-  HHHHH               HHHHH             
-  HHHHH               HHHHH        
-  HHHHH               HHHHH       
-  HHHHH               HHHHH          
-  HHHHH               HHHHH          
-                    HHHHHHHHH 
-                     HHHHHHH 
-                      HHHHH  
-                       HHH    
-                        H 
+https://hr-testcases-us-east-1.s3.amazonaws.com/9953/output03.txt?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1556612515&Signature=kZtDim%2FKDBLH1ayZRh%2BNF%2Fejssk%3D&response-content-type=text%2Fplain
