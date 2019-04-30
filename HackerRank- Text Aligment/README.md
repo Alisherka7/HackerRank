@@ -40,28 +40,28 @@ Output the desired logo<br>
 <h1>5</h1><br>
 <hr>
 <h1>Sample Output</h1><br>
-    H  <br>  
-   HHH <br>  
-  HHHHH  <br>
- HHHHHHH <br>
-HHHHHHHHH<br>
-  HHHHH               HHHHH          <br>   
-  HHHHH               HHHHH     <br>        
-  HHHHH               HHHHH      <br>       
-  HHHHH               HHHHH      <br>       
-  HHHHH               HHHHH     <br>        
-  HHHHH               HHHHH     <br>        
-  HHHHHHHHHHHHHHHHHHHHHHHHH   <br>
-  HHHHHHHHHHHHHHHHHHHHHHHHH   <br>
-  HHHHHHHHHHHHHHHHHHHHHHHHH   <br>
-  HHHHH               HHHHH     <br>        
-  HHHHH               HHHHH    <br>         
-  HHHHH               HHHHH     <br>        
-  HHHHH               HHHHH    <br>         
-  HHHHH               HHHHH      <br>       
-  HHHHH               HHHHH     <br>        
-                    HHHHHHHHH <br>
-                     HHHHHHH  <br>
-                      HHHHH   <br>
-                       HHH    <br>
-                        H <br>
+    H    
+   HHH   
+  HHHHH 
+ HHHHHHH 
+HHHHHHHHH
+  HHHHH               HHHHH            
+  HHHHH               HHHHH            
+  HHHHH               HHHHH            
+  HHHHH               HHHHH           
+  HHHHH               HHHHH         
+  HHHHH               HHHHH          
+  HHHHHHHHHHHHHHHHHHHHHHHHH   
+  HHHHHHHHHHHHHHHHHHHHHHHHH   
+  HHHHHHHHHHHHHHHHHHHHHHHHH   
+  HHHHH               HHHHH         
+  HHHHH               HHHHH             
+  HHHHH               HHHHH        
+  HHHHH               HHHHH       
+  HHHHH               HHHHH          
+  HHHHH               HHHHH          
+                    HHHHHHHHH 
+                     HHHHHHH 
+                      HHHHH  
+                       HHH    
+                        H 
