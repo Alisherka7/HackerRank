@@ -1,7 +1,7 @@
 <h1>Alphabet Rangoli</h1><br>
 
 <hr>
-You are given an integer <br>N</br>. Your task is to print an alphabet rangoli of size <br>N</br>
+You are given an integer <b>N</b>. Your task is to print an alphabet rangoli of size <b>N</b>
 
 . (Rangoli is a form of Indian folk art based on creation of patterns.)<br>
 
@@ -17,7 +17,7 @@ c-b-a-b-c<br>
 <hr>
 <h1>Input Format</h1>
 
-Only one line of input containing <br>N</br>
+Only one line of input containing <b>N</b>
 , the size of the rangoli.<br>
 <h1>Constraints</h1><br>
 0 < N < 27<br>
