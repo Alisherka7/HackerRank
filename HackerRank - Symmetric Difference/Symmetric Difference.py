@@ -1,3 +1,4 @@
+#symetric difference
 def symetric_difference(num1,num2):
     num1 = set(list(map(int, num1)))
     num2 = set(list(map(int, num2)))
